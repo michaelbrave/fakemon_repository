@@ -4,7 +4,7 @@
 1. Main Page / Home page  
     a. Header will include an add to library button that drops down the form to add a post, every page should have this.  
     b. Stretch goal (a search function)   
-2. List of Categories Page
+2. List of Categories Page  
     a. Could potentially combine with Home Page  
     b. list of categories are as follows so far  
         1. Fakemon (Fan Creations)  
@@ -26,11 +26,11 @@
         1. Title of category  
         2. Random Image or last uploaded  
         3. link to list page of corresponding category  
-3. Entries in Category Catalog Page
+3. Entries in Category Catalog Page  
     a. list of all entries in category, show 50 per page because infinite scrolling is a dark pattern that causes problems.    
     b. show how many pages of entries exist at bottom and top of page.   
     c. Stretch goal (have a way to sort by name, type, artist name, date added, evolution group, etc)  
-4. Individual Entries Page
+4. Individual Entries Page  
     a. Form will need to include categories for...  
         1. ID #  
         2. Name  
@@ -43,12 +43,13 @@
         9. Bio (Blurb about it)  
     b. Ideally it should allow for others to edit entries and keep track of who last edited it.   
 
-03/15/21 - Wireframe and boilerplate
-1. Start project, boilerplate
-2. import as much as possible from Twitter project, begin to modify
-3. Wireframe sketches on InvisionApp
-4. Look into deploying on Heroku
+03/15/21 - Wireframe and boilerplate  
+1. Start project, boilerplate  
+2. import as much as possible from Twitter project, begin to modify  
+3. Wireframe sketches on InvisionApp  
 
-03/16/21 (ToDo)
-1. working prototype without styling
-2. upload a few entries, try to keep permanence of them
+
+03/16/21 (ToDo)  
+1. working prototype without styling  
+2. upload a few entries, try to keep permanence of them  
+3. Look into deploying on Heroku  

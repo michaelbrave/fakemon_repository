@@ -47,6 +47,7 @@
 1. Start project, boilerplate  
 2. import as much as possible from Twitter project, begin to modify  
 3. Wireframe sketches on InvisionApp  
+    a. link https://projects.invisionapp.com/freehand/document/RTpRda1tr  
 
 
 03/16/21 (ToDo)  
